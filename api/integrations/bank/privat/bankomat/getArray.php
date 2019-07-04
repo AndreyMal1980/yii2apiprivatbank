@@ -11,5 +11,6 @@ class getArray implements getData {
             return json_decode($json, true);
       
     }
+    
 
 }
